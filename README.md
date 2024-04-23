@@ -1,1 +1,1 @@
-Link to access the webpage --> https://matheus-estevam.github.io/counter-js-vanilla/
+Link to access the webpage --> https://matheus-estevam.github.io/tip-calculator/
